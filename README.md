@@ -1,8 +1,9 @@
 <h1 align="center">Oi 👋, eu sou a Thalita de Melo Soares</h1>
-<h3 align="center">Cientista de dados apaixonada por Biologia</h3>
+<h3 align="center">Cientista de dados apaixonada por Biologia e Dinossauros</h3>
 <h4 align="center">🔭 Atualmente trabalhando na FGV-IBRE</h4>
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weivak&show_icons=true&locale=en" alt="weivak" /></p>
+<p align="center"><img align="center"  src="https://github.com/Weivak/weivak/blob/main/Assets/jp.gif"/></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weivak&show_icons=true&locale=en" alt="weivak" /> </p>
 
 <p align="left">
 </p>

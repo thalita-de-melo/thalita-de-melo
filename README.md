@@ -2,6 +2,8 @@
 <h3 align="center">Cientista de dados apaixonada por Biologia</h3>
 <h4 align="center">🔭 Atualmente trabalhando na FGV-IBRE</h4>
 
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weivak&show_icons=true&locale=en" alt="weivak" /></p>
+
 <p align="left">
 </p>
 
@@ -10,9 +12,7 @@
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weivak&show_icons=true&locale=en&layout=compact" alt="weivak" /></p>
 
-<br/>
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weivak&show_icons=true&locale=en" alt="weivak" /></p>
 
 
 

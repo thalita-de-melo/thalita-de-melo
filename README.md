@@ -2,7 +2,6 @@
 <h3 align="center">Cientista de dados apaixonada por Biologia</h3>
 <h4 align="center">🔭 Atualmente trabalhando na FGV-IBRE</h4>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

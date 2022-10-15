@@ -1,6 +1,36 @@
 <h1 align="center">Oi 👋, eu sou a Thalita de Melo Soares</h1>
-<h3 align="center">Cientista de dados apaixonada por Biologia e Dinossauros</h3>
-<h4 align="center">🔭 Atualmente trabalhando na FGV-IBRE</h4>
+
+<div align=center>
+  <a href="https://br.linkedin.com/in/thalita-de-melo-soares"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=flate&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+  <a href="https://thalitamelo.com.br"><img src="https://img.shields.io/badge/Meu-site-blue" alt="Website" /></a>  
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Cientista+de+Dados;Professora;Desenvolvedora" />
+</div>
+
+<h3 align="center">Sou uma cientista de dados apaixonada por Biologia e Dinossauros</h3>
+
+<div align=left>
+  <br>
+  <p>
+          <strong>
+              Sou formada em Sistemas de informação na FAETERJ-Paracambi, especialista em Inteligência Artificial e Machine Learning pela PUC-Minas, especialista em tecnologias aplicadas a educação, atualmente mestranda em ciências e biotecnologia pela UFF.<br><br>
+              Tenho experiência com ciência de dados, webscraping, desenvolvimento web e ensino de tecnologia e programação.<br><br>
+              Sou apaixonada por biologia, educação e tecnologia, amo aprender coisas novas e estudar. Pretendo fazer doutorado na área de ciência de dados e bioinfomática<br><br>
+              Estou sempre a procura de novos projetos e adoro ajudar, se precisar da minha ajuda fique a vontade para me enviar uma mensagem.
+            </strtrong>
+  </p>
+  <ul>
+    <li>🔭 <b>Atualmente trabalhando:</b> FGV-IBRE</li>
+    <li>🌱 <b>Interesses:</b> Biologia, ciência de dados, web e programação</li>
+    <li>⚡Professora na Kick</li>
+  </ul>
+  
+</div>
 
 <p align="center"></p>
 <p align="center" >&nbsp;<img align="center" width="270px" src="https://github.com/Weivak/weivak/blob/main/Assets/jp.gif"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=weivak&show_icons=true&locale=en" alt="weivak" /> </p>

@@ -7,7 +7,7 @@
   <a href=""><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
   <a href="https://thalitamelo.com.br"><img src="https://img.shields.io/badge/Meu-site-blue" alt="Website" /></a>  
 </div>
-
+<br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Cientista+de+Dados;Professora;Desenvolvedora" />
 </div>

@@ -33,7 +33,9 @@
 </div>
 
 <p align="center"></p> 
-<p align="center" >&nbsp;<img align="center" width="270px" src="https://github.com/thalita-de-melo/thalita-de-melo/blob/main/Assets/jp.gif"/> <!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thalita-de-melo&show_icons=true&locale=en" alt="thalita-de-melo" />  --> </p>
+<p align="center" >&nbsp;<img align="center" width="270px" src="https://github.com/thalita-de-melo/thalita-de-melo/blob/main/Assets/jp.gif"/> </p>
+
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thalita-de-melo&show_icons=true&locale=en" alt="thalita-de-melo" />  -->
 
 <p align="left">
 </p>
